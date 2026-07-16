@@ -40,7 +40,7 @@ $ chmod a+x ~/.bin/repo
 $mkdir WORKSPACE$ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/aospa-shadedark/kernel_manifest -b beryl-xiaomi-sm8450
+$ repo init -u https://github.com/aospa-shadedark/kernel_manifest -b calcite-xiaomi-sm8450
 
 ```
 
